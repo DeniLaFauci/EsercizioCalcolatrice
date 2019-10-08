@@ -9,3 +9,14 @@ C:\Users\CORSO 48\source\repos\Calcolatrice\Calcolatrice\bin\Debug\netcoreapp3.0
 C:\Users\CORSO 48\source\repos\Calcolatrice\Calcolatrice\bin\Debug\netcoreapp3.0\Calcolatrice.pdb
 C:\Users\CORSO 48\source\repos\Calcolatrice\Calcolatrice\obj\Debug\netcoreapp3.0\Calcolatrice.dll
 C:\Users\CORSO 48\source\repos\Calcolatrice\Calcolatrice\obj\Debug\netcoreapp3.0\Calcolatrice.pdb
+C:\Users\CORSO 48\Documents\GitHub\EsercizioCalcolatrice\Calcolatrice\obj\Debug\netcoreapp3.0\Calcolatrice.csprojAssemblyReference.cache
+C:\Users\CORSO 48\Documents\GitHub\EsercizioCalcolatrice\Calcolatrice\obj\Debug\netcoreapp3.0\Calcolatrice.AssemblyInfoInputs.cache
+C:\Users\CORSO 48\Documents\GitHub\EsercizioCalcolatrice\Calcolatrice\obj\Debug\netcoreapp3.0\Calcolatrice.AssemblyInfo.cs
+C:\Users\CORSO 48\Documents\GitHub\EsercizioCalcolatrice\Calcolatrice\obj\Debug\netcoreapp3.0\Calcolatrice.dll
+C:\Users\CORSO 48\Documents\GitHub\EsercizioCalcolatrice\Calcolatrice\obj\Debug\netcoreapp3.0\Calcolatrice.pdb
+C:\Users\CORSO 48\Documents\GitHub\EsercizioCalcolatrice\Calcolatrice\bin\Debug\netcoreapp3.0\Calcolatrice.exe
+C:\Users\CORSO 48\Documents\GitHub\EsercizioCalcolatrice\Calcolatrice\bin\Debug\netcoreapp3.0\Calcolatrice.deps.json
+C:\Users\CORSO 48\Documents\GitHub\EsercizioCalcolatrice\Calcolatrice\bin\Debug\netcoreapp3.0\Calcolatrice.runtimeconfig.json
+C:\Users\CORSO 48\Documents\GitHub\EsercizioCalcolatrice\Calcolatrice\bin\Debug\netcoreapp3.0\Calcolatrice.runtimeconfig.dev.json
+C:\Users\CORSO 48\Documents\GitHub\EsercizioCalcolatrice\Calcolatrice\bin\Debug\netcoreapp3.0\Calcolatrice.dll
+C:\Users\CORSO 48\Documents\GitHub\EsercizioCalcolatrice\Calcolatrice\bin\Debug\netcoreapp3.0\Calcolatrice.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\CORSO 48\\source\\repos\\Calcolatrice\\Calcolatrice\\Calcolatrice.csproj": {}
+    "C:\\Users\\CORSO 48\\Documents\\GitHub\\EsercizioCalcolatrice\\Calcolatrice\\Calcolatrice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\CORSO 48\\source\\repos\\Calcolatrice\\Calcolatrice\\Calcolatrice.csproj": {
+    "C:\\Users\\CORSO 48\\Documents\\GitHub\\EsercizioCalcolatrice\\Calcolatrice\\Calcolatrice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CORSO 48\\source\\repos\\Calcolatrice\\Calcolatrice\\Calcolatrice.csproj",
+        "projectUniqueName": "C:\\Users\\CORSO 48\\Documents\\GitHub\\EsercizioCalcolatrice\\Calcolatrice\\Calcolatrice.csproj",
         "projectName": "Calcolatrice",
-        "projectPath": "C:\\Users\\CORSO 48\\source\\repos\\Calcolatrice\\Calcolatrice\\Calcolatrice.csproj",
+        "projectPath": "C:\\Users\\CORSO 48\\Documents\\GitHub\\EsercizioCalcolatrice\\Calcolatrice\\Calcolatrice.csproj",
         "packagesPath": "C:\\Users\\CORSO 48\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CORSO 48\\source\\repos\\Calcolatrice\\Calcolatrice\\obj\\",
+        "outputPath": "C:\\Users\\CORSO 48\\Documents\\GitHub\\EsercizioCalcolatrice\\Calcolatrice\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

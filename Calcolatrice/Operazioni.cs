@@ -31,11 +31,13 @@ namespace MyOperazioni
                 {
                     ris = n1 + n2;
                     controllo = false;
+                    Console.WriteLine(ris);
                 }
                 else if (sc == 2)
                 {
                     ris = n1 - n2;
                     controllo = false;
+                    Console.WriteLine(ris);
                 }
                 else if (sc == 3)
                 {
@@ -53,6 +55,7 @@ namespace MyOperazioni
                     {
                         ris = n1 / n2;
                         controllo = false;
+                        Console.WriteLine(ris);
                     }
                     controllo = false;
                 }
@@ -72,6 +75,7 @@ namespace MyOperazioni
                         ris = n1 / n2;
                         rest = n1 % n2;
                         controllo = false;
+                        Console.WriteLine(ris + " col resto di " + rest);
                     }
               
                 }

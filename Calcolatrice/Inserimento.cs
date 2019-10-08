@@ -9,11 +9,11 @@ namespace MyInserimento
        
         public static int insertInto() 
         {
-            int x;
+            int x;                      //variabile scelta dall'utente
             bool success;
             do
             {
-                Console.WriteLine("Inserisci il primo numero e primi invio");
+                Console.WriteLine("Inserisci un numero e primi invio");
                 string numero1 = Console.ReadLine();
                 success = Int32.TryParse(numero1, out x);
                 if (success == false)          //

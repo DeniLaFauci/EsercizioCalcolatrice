@@ -1,6 +1,7 @@
 ﻿using System;
 using MyOperazioni;
 using MyInserimento;
+//using CalcolatriceAuliaria;
 
 namespace Calcolatrice
 {
@@ -8,6 +9,7 @@ namespace Calcolatrice
     {
         static void Main(string[] args)
         {
+            //Sto per fare un operazione
 
             int Op;
             int n1;
